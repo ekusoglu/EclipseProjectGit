@@ -7,7 +7,9 @@ public class Test {
 		/// jjsdkdsa
 		
 		// pusshing it again
-		
+		public void methodA(){
+		this is from remote repo
+		}
 		
 	}
 
