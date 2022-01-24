@@ -13,6 +13,10 @@ public class Test {
 		public void methodB(){
 		// this is the repo again
 		}
+		
+		public void methodD() {
+			// this abe
+		}
 	}
 
 
