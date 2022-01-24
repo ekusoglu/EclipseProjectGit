@@ -8,7 +8,7 @@ public class Test {
 		
 		// pusshing it again
 		public void methodA(){
-		this is from remote repo
+		//this is from remote repo
 		}
 		
 	}
